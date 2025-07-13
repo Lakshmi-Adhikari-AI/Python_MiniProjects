@@ -12,6 +12,9 @@ An interactive CLI game where the user guesses a randomly generated number using
 ### 🛒 [Shopping Cart Simulator](https://github.com/lakshmi-adhikari-ai/Python_MiniProjects/tree/main/shopping-cart-simulator)
 A command-line-based shopping cart app that lets users add, remove, and view items. Focuses on list handling, conditional logic, and modular function design.
 
+### 🎓 [Student Grades Tracker](https://github.com/lakshmi-adhikari-ai/Python_MiniProjects/tree/main/student-grades-tracker)  
+A CLI tool to manage student marks: add, view, delete, clear and summarize using Python dictionaries.
+
 ---
 
 ## 👩‍💻 Author
